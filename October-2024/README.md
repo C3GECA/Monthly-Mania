@@ -10,8 +10,4 @@ Sr. No. | Name(with link to github profile) | Domain                 | Solution 
 Sr. No. | Name(with link to github profile) | Domain                 | Solution Repo/Notebook Link           | Status
 --------|-----------------------------------|------------------------|---------------------------------------|------------
 1       | Tejas Mahajan                     | Machine Learning       | [Kaggle Notebook](https://www.kaggle.com/code/tejas242/datacorp-sol) or [ML-Tasks.ipynb](official-solutions/ML.ipynb)  | Official
-
-
-Sr. No. | Name(with link to github profile) | Domain                 | Solution Repo/Notebook Link           | Status
---------|-----------------------------------|------------------------|---------------------------------------|------------
-1       | Solution (Web Development)        | Web Development        | https://github.com/AdityaDhanure/October-Solutions.git | Done
+2       | Aditya Dhanure                    | Web Development        | https://github.com/AdityaDhanure/October-Solutions.git | Official
